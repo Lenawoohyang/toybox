@@ -17,4 +17,4 @@ This site is deployed to GitHub Pages. To deploy:
 npm run deploy
 ```
 
-Visit your site at: https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME
+Visit your site at: https://Lenawoohyang.github.io/toybox

@@ -41,7 +41,7 @@ jobs:
         run: npm run build
         env:
           # Make sure we use the correct base path for GitHub Pages
-          BASE_URL: '/template-example/'
+          BASE_URL: '/toybox/'
           # Add NODE_ENV to ensure production optimization
           NODE_ENV: 'production'
       

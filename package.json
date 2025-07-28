@@ -3,10 +3,10 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://isnbh0.github.io/template-example",
+  "homepage": "https://Lenawoohyang.github.io/toybox",
   "repository": {
     "type": "git",
-    "url": "https://github.com/isnbh0/template-example.git"
+    "url": "https://github.com/Lenawoohyang/toybox.git"
   },
   "scripts": {
     "dev": "vite",
@@ -16,7 +16,7 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
-    "test-production": "vite preview --base=/template-example/",
+    "test-production": "vite preview --base=/toybox/",
     "update-config": "node scripts/update-config.js"
   },
   "dependencies": {
