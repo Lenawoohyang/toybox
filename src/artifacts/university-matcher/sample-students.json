@@ -1,0 +1,35 @@
+[
+  {
+    "id": "high-achiever",
+    "name": "최상위권 학생 (Alex)",
+    "profile": {
+      "gpa": 3.95,
+      "toefl": 115,
+      "sat": 1580,
+      "major": "Computer Science"
+    },
+    "description": "Ivy League 지원 가능한 최상위권 성적"
+  },
+  {
+    "id": "mid-high",
+    "name": "중상위권 학생 (Sarah)",
+    "profile": {
+      "gpa": 3.7,
+      "toefl": 95,
+      "sat": 1420,
+      "major": "Business"
+    },
+    "description": "상위권 대학 목표, 균형잡힌 성적"
+  },
+  {
+    "id": "safety-focused",
+    "name": "안정지향 학생 (David)",
+    "profile": {
+      "gpa": 3.4,
+      "toefl": 85,
+      "sat": 1280,
+      "major": "Psychology"
+    },
+    "description": "중간 성적, 안전한 지원선 위주"
+  }
+] 

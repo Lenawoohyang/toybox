@@ -1,0 +1,189 @@
+[
+  {
+    "id": "harvard",
+    "name": "Harvard University",
+    "country": "USA",
+    "location": "Cambridge, MA",
+    "ranking": 1,
+    "tuitionUSD": 54269,
+    "acceptanceRate": 3.4,
+    "requirements": {
+      "minGPA": 3.9,
+      "minTOEFL": 100,
+      "minSAT": 1460
+    },
+    "strongMajors": ["Business", "Medicine", "Law", "Computer Science", "Economics"],
+    "description": "Ivy League institution known for academic excellence and prestigious alumni network.",
+    "type": "private"
+  },
+  {
+    "id": "stanford",
+    "name": "Stanford University",
+    "country": "USA",
+    "location": "Stanford, CA",
+    "ranking": 2,
+    "tuitionUSD": 56169,
+    "acceptanceRate": 4.3,
+    "requirements": {
+      "minGPA": 3.9,
+      "minTOEFL": 100,
+      "minSAT": 1440
+    },
+    "strongMajors": ["Computer Science", "Engineering", "Business", "Medicine"],
+    "description": "Leading research university in Silicon Valley, renowned for innovation and entrepreneurship.",
+    "type": "private"
+  },
+  {
+    "id": "mit",
+    "name": "MIT",
+    "country": "USA",
+    "location": "Cambridge, MA",
+    "ranking": 3,
+    "tuitionUSD": 53790,
+    "acceptanceRate": 7.3,
+    "requirements": {
+      "minGPA": 3.9,
+      "minTOEFL": 90,
+      "minSAT": 1510
+    },
+    "strongMajors": ["Engineering", "Computer Science", "Physics", "Mathematics"],
+    "description": "World-renowned for science, technology, engineering, and mathematical education.",
+    "type": "private"
+  },
+  {
+    "id": "berkeley",
+    "name": "UC Berkeley",
+    "country": "USA",
+    "location": "Berkeley, CA",
+    "ranking": 22,
+    "tuitionUSD": 44007,
+    "acceptanceRate": 17.5,
+    "requirements": {
+      "minGPA": 3.7,
+      "minTOEFL": 80,
+      "minSAT": 1310
+    },
+    "strongMajors": ["Engineering", "Computer Science", "Business", "Public Policy", "Economics"],
+    "description": "Top public research university known for academic excellence and social activism.",
+    "type": "public"
+  },
+  {
+    "id": "ucla",
+    "name": "UCLA",
+    "country": "USA",
+    "location": "Los Angeles, CA",
+    "ranking": 25,
+    "tuitionUSD": 43022,
+    "acceptanceRate": 12.3,
+    "requirements": {
+      "minGPA": 3.7,
+      "minTOEFL": 87,
+      "minSAT": 1290
+    },
+    "strongMajors": ["Film", "Psychology", "Engineering", "Medicine", "Business"],
+    "description": "Premier public research university in sunny Los Angeles.",
+    "type": "public"
+  },
+  {
+    "id": "umich",
+    "name": "University of Michigan",
+    "country": "USA",
+    "location": "Ann Arbor, MI",
+    "ranking": 28,
+    "tuitionUSD": 51200,
+    "acceptanceRate": 23.0,
+    "requirements": {
+      "minGPA": 3.6,
+      "minTOEFL": 84,
+      "minSAT": 1350
+    },
+    "strongMajors": ["Engineering", "Business", "Medicine", "Psychology", "Public Policy"],
+    "description": "Top public university with strong programs across multiple disciplines.",
+    "type": "public"
+  },
+  {
+    "id": "oxford",
+    "name": "University of Oxford",
+    "country": "UK",
+    "location": "Oxford, England",
+    "ranking": 4,
+    "tuitionUSD": 42000,
+    "acceptanceRate": 17.5,
+    "requirements": {
+      "minGPA": 3.8,
+      "minTOEFL": 100,
+      "minSAT": 1470
+    },
+    "strongMajors": ["Law", "Medicine", "Philosophy", "Literature", "History"],
+    "description": "Ancient university with tutorial system and rich academic tradition.",
+    "type": "public"
+  },
+  {
+    "id": "cambridge",
+    "name": "University of Cambridge",
+    "country": "UK",
+    "location": "Cambridge, England",
+    "ranking": 5,
+    "tuitionUSD": 40000,
+    "acceptanceRate": 21.0,
+    "requirements": {
+      "minGPA": 3.8,
+      "minTOEFL": 100,
+      "minSAT": 1460
+    },
+    "strongMajors": ["Mathematics", "Natural Sciences", "Engineering", "Medicine", "Law"],
+    "description": "Collegiate university known for academic excellence and scientific breakthroughs.",
+    "type": "public"
+  },
+  {
+    "id": "imperial",
+    "name": "Imperial College London",
+    "country": "UK",
+    "location": "London, England",
+    "ranking": 8,
+    "tuitionUSD": 38000,
+    "acceptanceRate": 14.3,
+    "requirements": {
+      "minGPA": 3.7,
+      "minTOEFL": 92,
+      "minSAT": 1400
+    },
+    "strongMajors": ["Engineering", "Medicine", "Natural Sciences", "Computer Science"],
+    "description": "Science, engineering, medicine and business focused university in London.",
+    "type": "public"
+  },
+  {
+    "id": "lse",
+    "name": "London School of Economics",
+    "country": "UK",
+    "location": "London, England",
+    "ranking": 35,
+    "tuitionUSD": 35000,
+    "acceptanceRate": 8.9,
+    "requirements": {
+      "minGPA": 3.6,
+      "minTOEFL": 87,
+      "minSAT": 1350
+    },
+    "strongMajors": ["Economics", "Finance", "Politics", "International Relations", "Sociology"],
+    "description": "Specialist university focused on social sciences in the heart of London.",
+    "type": "public"
+  },
+  {
+    "id": "warwick",
+    "name": "University of Warwick",
+    "country": "UK",
+    "location": "Coventry, England",
+    "ranking": 50,
+    "tuitionUSD": 32000,
+    "acceptanceRate": 18.2,
+    "requirements": {
+      "minGPA": 3.5,
+      "minTOEFL": 82,
+      "minSAT": 1280
+    },
+    "strongMajors": ["Business", "Economics", "Engineering", "Mathematics", "Computer Science"],
+    "description": "Modern research university known for business and economics programs.",
+    "type": "public"
+  }
+] 
