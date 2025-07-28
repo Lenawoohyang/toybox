@@ -1,0 +1,1031 @@
+{
+  "metadata": {
+    "version": "2025.1",
+    "lastUpdated": "2025-07-28",
+    "totalUniversities": 50,
+    "sources": [
+      "US News Best Colleges 2025",
+      "Official University Websites",
+      "Duolingo English Test Partners"
+    ]
+  },
+  "universities": [
+    {
+      "id": "harvard-university",
+      "name": "Harvard University",
+      "shortName": "Harvard",
+      "country": "USA",
+      "state": "Massachusetts",
+      "city": "Cambridge",
+      "location": "Cambridge, MA",
+      "ranking": {
+        "usNews2025": 1,
+        "global": 1
+      },
+      "tuition": {
+        "outOfState": 56000,
+        "currency": "USD"
+      },
+      "admissions": {
+        "acceptanceRate": 4.6
+      },
+      "languageRequirements": {
+        "toefl": {
+          "minimum": 100,
+          "recommended": 110
+        },
+        "duolingo": {
+          "minimum": 125,
+          "recommended": 135
+        }
+      },
+      "academicRequirements": {
+        "gpa": {
+          "minimum": 3.9,
+          "average": 3.95,
+          "scale": "4.0"
+        },
+        "sat": {
+          "minimum": 1460,
+          "average": 1520,
+          "range": [1460, 1580]
+        }
+      },
+      "characteristics": {
+        "type": "private",
+        "size": "medium",
+        "setting": "urban",
+        "enrollment": 23000
+      },
+      "strongMajors": ["Business", "Medicine", "Law", "Computer Science", "Economics"],
+      "description": "Ivy League institution known for academic excellence and prestigious alumni network.",
+      "website": "https://www.harvard.edu/",
+      "lastUpdated": "2025-07-28",
+      "dataSource": ["US News 2025", "Harvard Official Website"]
+    },
+    {
+      "id": "mit",
+      "name": "Massachusetts Institute of Technology",
+      "shortName": "MIT",
+      "country": "USA",
+      "state": "Massachusetts", 
+      "city": "Cambridge",
+      "location": "Cambridge, MA",
+      "ranking": {
+        "usNews2025": 2,
+        "global": 2
+      },
+      "tuition": {
+        "outOfState": 53790,
+        "currency": "USD"
+      },
+      "admissions": {
+        "acceptanceRate": 6.7
+      },
+      "languageRequirements": {
+        "toefl": {
+          "minimum": 90,
+          "recommended": 100
+        },
+        "duolingo": {
+          "minimum": 120,
+          "recommended": 130
+        }
+      },
+      "academicRequirements": {
+        "gpa": {
+          "minimum": 3.9,
+          "average": 3.96,
+          "scale": "4.0"
+        },
+        "sat": {
+          "minimum": 1510,
+          "average": 1540,
+          "range": [1510, 1570]
+        }
+      },
+      "characteristics": {
+        "type": "private",
+        "size": "medium",
+        "setting": "urban",
+        "enrollment": 11934
+      },
+      "strongMajors": ["Engineering", "Computer Science", "Physics", "Mathematics"],
+      "description": "World-renowned for science, technology, engineering, and mathematics.",
+      "website": "https://www.mit.edu/",
+      "lastUpdated": "2025-07-28",
+      "dataSource": ["US News 2025", "MIT Official Website"]
+    },
+    {
+      "id": "stanford-university",
+      "name": "Stanford University",
+      "shortName": "Stanford",
+      "country": "USA",
+      "state": "California",
+      "city": "Stanford",
+      "location": "Stanford, CA",
+      "ranking": {
+        "usNews2025": 3,
+        "global": 3
+      },
+      "tuition": {
+        "outOfState": 56000,
+        "currency": "USD"
+      },
+      "admissions": {
+        "acceptanceRate": 4.3
+      },
+      "languageRequirements": {
+        "toefl": {
+          "minimum": 100,
+          "recommended": 110
+        },
+        "duolingo": {
+          "minimum": 125,
+          "recommended": 135
+        }
+      },
+      "academicRequirements": {
+        "gpa": {
+          "minimum": 3.9,
+          "average": 3.94,
+          "scale": "4.0"
+        },
+        "sat": {
+          "minimum": 1440,
+          "average": 1510,
+          "range": [1440, 1570]
+        }
+      },
+      "characteristics": {
+        "type": "private",
+        "size": "large",
+        "setting": "suburban",
+        "enrollment": 17249
+      },
+      "strongMajors": ["Computer Science", "Engineering", "Business", "Medicine"],
+      "description": "Leading research university in Silicon Valley, known for innovation.",
+      "website": "https://www.stanford.edu/",
+      "lastUpdated": "2025-07-28",
+      "dataSource": ["US News 2025", "Stanford Official Website"]
+    },
+    {
+      "id": "uc-berkeley",
+      "name": "University of California, Berkeley",
+      "shortName": "UC Berkeley",
+      "country": "USA",
+      "state": "California",
+      "city": "Berkeley",
+      "location": "Berkeley, CA",
+      "ranking": {
+        "usNews2025": 15,
+        "global": 6
+      },
+      "tuition": {
+        "inState": 14226,
+        "outOfState": 44007,
+        "currency": "USD"
+      },
+      "admissions": {
+        "acceptanceRate": 16.3
+      },
+      "languageRequirements": {
+        "toefl": {
+          "minimum": 90,
+          "recommended": 100
+        },
+        "duolingo": {
+          "minimum": 115,
+          "recommended": 125
+        }
+      },
+      "academicRequirements": {
+        "gpa": {
+          "minimum": 3.8,
+          "average": 3.89,
+          "scale": "4.0"
+        },
+        "sat": {
+          "minimum": 1350,
+          "average": 1430,
+          "range": [1350, 1530]
+        }
+      },
+      "characteristics": {
+        "type": "public",
+        "size": "large",
+        "setting": "urban",
+        "enrollment": 45036
+      },
+      "strongMajors": ["Engineering", "Computer Science", "Business", "Social Sciences"],
+      "description": "Top public research university with strong programs across disciplines.",
+      "website": "https://www.berkeley.edu/",
+      "lastUpdated": "2025-07-28",
+      "dataSource": ["US News 2025", "UC Berkeley Official Website"]
+    },
+    {
+      "id": "nyu",
+      "name": "New York University",
+      "shortName": "NYU",
+      "country": "USA",
+      "state": "New York",
+      "city": "New York",
+      "location": "New York, NY",
+      "ranking": {
+        "usNews2025": 25,
+        "global": 27
+      },
+      "tuition": {
+        "outOfState": 58000,
+        "currency": "USD"
+      },
+      "admissions": {
+        "acceptanceRate": 21.0
+      },
+      "languageRequirements": {
+        "toefl": {
+          "minimum": 100,
+          "recommended": 110
+        },
+        "duolingo": {
+          "minimum": 115,
+          "recommended": 125
+        }
+      },
+      "academicRequirements": {
+        "gpa": {
+          "minimum": 3.6,
+          "average": 3.73,
+          "scale": "4.0"
+        },
+        "sat": {
+          "minimum": 1370,
+          "average": 1470,
+          "range": [1370, 1560]
+        }
+      },
+      "characteristics": {
+        "type": "private",
+        "size": "large",
+        "setting": "urban",
+        "enrollment": 58918
+      },
+      "strongMajors": ["Business", "Arts", "Film", "Law", "Medicine"],
+      "description": "Global university in Manhattan with diverse programs.",
+      "website": "https://www.nyu.edu/",
+      "lastUpdated": "2025-07-28",
+      "dataSource": ["US News 2025", "NYU Official Website"]
+    },
+    {
+      "id": "northeastern-university",
+      "name": "Northeastern University",
+      "shortName": "Northeastern",
+      "country": "USA",
+      "state": "Massachusetts",
+      "city": "Boston",
+      "location": "Boston, MA",
+      "ranking": {
+        "usNews2025": 44,
+        "global": 185
+      },
+      "tuition": {
+        "outOfState": 56500,
+        "currency": "USD"
+      },
+      "admissions": {
+        "acceptanceRate": 18.0
+      },
+      "languageRequirements": {
+        "toefl": {
+          "minimum": 90,
+          "recommended": 100
+        },
+        "duolingo": {
+          "minimum": 105,
+          "recommended": 115
+        }
+      },
+      "academicRequirements": {
+        "gpa": {
+          "minimum": 3.5,
+          "average": 3.7,
+          "scale": "4.0"
+        },
+        "sat": {
+          "minimum": 1340,
+          "average": 1440,
+          "range": [1340, 1540]
+        }
+      },
+      "characteristics": {
+        "type": "private",
+        "size": "large",
+        "setting": "urban",
+        "enrollment": 27000
+      },
+      "strongMajors": ["Engineering", "Business", "Computer Science", "Health Sciences"],
+      "description": "Known for co-op programs and experiential learning.",
+      "website": "https://www.northeastern.edu/",
+      "lastUpdated": "2025-07-28",
+      "dataSource": ["US News 2025", "Northeastern Official Website"]
+    },
+    {
+      "id": "usc",
+      "name": "University of Southern California",
+      "shortName": "USC",
+      "country": "USA",
+      "state": "California",
+      "city": "Los Angeles",
+      "location": "Los Angeles, CA",
+      "ranking": {
+        "usNews2025": 28,
+        "global": 70
+      },
+      "tuition": {
+        "outOfState": 63000,
+        "currency": "USD"
+      },
+      "admissions": {
+        "acceptanceRate": 16.0
+      },
+      "languageRequirements": {
+        "toefl": {
+          "minimum": 90,
+          "recommended": 100
+        },
+        "duolingo": {
+          "minimum": 115,
+          "recommended": 125
+        }
+      },
+      "academicRequirements": {
+        "gpa": {
+          "minimum": 3.6,
+          "average": 3.79,
+          "scale": "4.0"
+        },
+        "sat": {
+          "minimum": 1350,
+          "average": 1450,
+          "range": [1350, 1530]
+        }
+      },
+      "characteristics": {
+        "type": "private",
+        "size": "large",
+        "setting": "urban",
+        "enrollment": 47500
+      },
+      "strongMajors": ["Film", "Business", "Engineering", "Communications"],
+      "description": "Premier private research university known for cinema school.",
+      "website": "https://www.usc.edu/",
+      "lastUpdated": "2025-07-28",
+      "dataSource": ["US News 2025", "USC Official Website"]
+    },
+    {
+      "id": "university-of-michigan",
+      "name": "University of Michigan",
+      "shortName": "UMich",
+      "country": "USA",
+      "state": "Michigan",
+      "city": "Ann Arbor",
+      "location": "Ann Arbor, MI",
+      "ranking": {
+        "usNews2025": 21,
+        "global": 19
+      },
+      "tuition": {
+        "inState": 16178,
+        "outOfState": 52266,
+        "currency": "USD"
+      },
+      "admissions": {
+        "acceptanceRate": 26.0
+      },
+      "languageRequirements": {
+        "toefl": {
+          "minimum": 85,
+          "recommended": 100
+        },
+        "duolingo": {
+          "minimum": 115,
+          "recommended": 125
+        }
+      },
+      "academicRequirements": {
+        "gpa": {
+          "minimum": 3.6,
+          "average": 3.85,
+          "scale": "4.0"
+        },
+        "sat": {
+          "minimum": 1340,
+          "average": 1435,
+          "range": [1340, 1530]
+        }
+      },
+      "characteristics": {
+        "type": "public",
+        "size": "large",
+        "setting": "suburban",
+        "enrollment": 47000
+      },
+      "strongMajors": ["Engineering", "Business", "Medicine", "Law"],
+      "description": "Top public research university with excellent programs.",
+      "website": "https://www.umich.edu/",
+      "lastUpdated": "2025-07-28",
+      "dataSource": ["US News 2025", "UMich Official Website"]
+    },
+    {
+      "id": "university-of-washington",
+      "name": "University of Washington",
+      "shortName": "UW",
+      "country": "USA",
+      "state": "Washington",
+      "city": "Seattle",
+      "location": "Seattle, WA",
+      "ranking": {
+        "usNews2025": 40,
+        "global": 8
+      },
+      "tuition": {
+        "inState": 12242,
+        "outOfState": 39906,
+        "currency": "USD"
+      },
+      "admissions": {
+        "acceptanceRate": 55.0
+      },
+      "languageRequirements": {
+        "toefl": {
+          "minimum": 76,
+          "recommended": 90
+        },
+        "duolingo": {
+          "minimum": 105,
+          "recommended": 115
+        }
+      },
+      "academicRequirements": {
+        "gpa": {
+          "minimum": 3.4,
+          "average": 3.71,
+          "scale": "4.0"
+        },
+        "sat": {
+          "minimum": 1220,
+          "average": 1350,
+          "range": [1220, 1470]
+        }
+      },
+      "characteristics": {
+        "type": "public",
+        "size": "large",
+        "setting": "urban",
+        "enrollment": 48149
+      },
+      "strongMajors": ["Medicine", "Engineering", "Computer Science", "Business"],
+      "description": "Top public research university in tech hub Seattle.",
+      "website": "https://www.washington.edu/",
+      "lastUpdated": "2025-07-28",
+      "dataSource": ["US News 2025", "UW Official Website"]
+    },
+    {
+      "id": "arizona-state",
+      "name": "Arizona State University",
+      "shortName": "ASU",
+      "country": "USA",
+      "state": "Arizona",
+      "city": "Tempe",
+      "location": "Tempe, AZ",
+      "ranking": {
+        "usNews2025": 121,
+        "global": 128
+      },
+      "tuition": {
+        "inState": 11618,
+        "outOfState": 29428,
+        "currency": "USD"
+      },
+      "admissions": {
+        "acceptanceRate": 85.0
+      },
+      "languageRequirements": {
+        "toefl": {
+          "minimum": 61,
+          "recommended": 79
+        },
+        "duolingo": {
+          "minimum": 95,
+          "recommended": 105
+        }
+      },
+      "academicRequirements": {
+        "gpa": {
+          "minimum": 3.0,
+          "average": 3.54,
+          "scale": "4.0"
+        },
+        "sat": {
+          "minimum": 1120,
+          "average": 1250,
+          "range": [1120, 1360]
+        }
+      },
+      "characteristics": {
+        "type": "public",
+        "size": "large",
+        "setting": "urban",
+        "enrollment": 80065
+      },
+      "strongMajors": ["Business", "Engineering", "Journalism", "Education"],
+      "description": "Large innovative public university with diverse programs.",
+      "website": "https://www.asu.edu/",
+      "lastUpdated": "2025-07-28",
+      "dataSource": ["US News 2025", "ASU Official Website"]
+    },
+    {
+      "id": "university-of-utah",
+      "name": "University of Utah",
+      "shortName": "U of Utah",
+      "country": "USA",
+      "state": "Utah",
+      "city": "Salt Lake City",
+      "location": "Salt Lake City, UT",
+      "ranking": {
+        "usNews2025": 115,
+        "global": 145
+      },
+      "tuition": {
+        "inState": 10423,
+        "outOfState": 32378,
+        "currency": "USD"
+      },
+      "admissions": {
+        "acceptanceRate": 75.0
+      },
+      "languageRequirements": {
+        "toefl": {
+          "minimum": 80,
+          "recommended": 90
+        },
+        "duolingo": {
+          "minimum": 105,
+          "recommended": 115
+        }
+      },
+      "academicRequirements": {
+        "gpa": {
+          "minimum": 3.2,
+          "average": 3.68,
+          "scale": "4.0"
+        },
+        "sat": {
+          "minimum": 1160,
+          "average": 1280,
+          "range": [1160, 1390]
+        }
+      },
+      "characteristics": {
+        "type": "public",
+        "size": "large",
+        "setting": "urban",
+        "enrollment": 33000
+      },
+      "strongMajors": ["Medicine", "Engineering", "Business", "Computer Science"],
+      "description": "Research university known for medicine and engineering.",
+      "website": "https://www.utah.edu/",
+      "lastUpdated": "2025-07-28",
+      "dataSource": ["US News 2025", "University of Utah Official Website"]
+    },
+    {
+      "id": "university-of-cincinnati",
+      "name": "University of Cincinnati",
+      "shortName": "UC",
+      "country": "USA",
+      "state": "Ohio",
+      "city": "Cincinnati",
+      "location": "Cincinnati, OH",
+      "ranking": {
+        "usNews2025": 148,
+        "global": 201
+      },
+      "tuition": {
+        "inState": 12784,
+        "outOfState": 27334,
+        "currency": "USD"
+      },
+      "admissions": {
+        "acceptanceRate": 73.0
+      },
+      "languageRequirements": {
+        "toefl": {
+          "minimum": 79,
+          "recommended": 90
+        },
+        "duolingo": {
+          "minimum": 100,
+          "recommended": 110
+        }
+      },
+      "academicRequirements": {
+        "gpa": {
+          "minimum": 3.0,
+          "average": 3.6,
+          "scale": "4.0"
+        },
+        "sat": {
+          "minimum": 1080,
+          "average": 1200,
+          "range": [1080, 1320]
+        }
+      },
+      "characteristics": {
+        "type": "public",
+        "size": "large",
+        "setting": "urban",
+        "enrollment": 40000
+      },
+      "strongMajors": ["Engineering", "Business", "Medicine", "Design"],
+      "description": "Public research university with strong co-op programs.",
+      "website": "https://www.uc.edu/",
+      "lastUpdated": "2025-07-28",
+      "dataSource": ["US News 2025", "UC Official Website"]
+    },
+    {
+      "id": "university-of-colorado-boulder",
+      "name": "University of Colorado Boulder",
+      "shortName": "CU Boulder",
+      "country": "USA",
+      "state": "Colorado",
+      "city": "Boulder",
+      "location": "Boulder, CO",
+      "ranking": {
+        "usNews2025": 99,
+        "global": 88
+      },
+      "tuition": {
+        "inState": 13910,
+        "outOfState": 39900,
+        "currency": "USD"
+      },
+      "admissions": {
+        "acceptanceRate": 84.0
+      },
+      "languageRequirements": {
+        "toefl": {
+          "minimum": 75,
+          "recommended": 85
+        },
+        "duolingo": {
+          "minimum": 105,
+          "recommended": 115
+        }
+      },
+      "academicRequirements": {
+        "gpa": {
+          "minimum": 3.0,
+          "average": 3.66,
+          "scale": "4.0"
+        },
+        "sat": {
+          "minimum": 1190,
+          "average": 1310,
+          "range": [1190, 1420]
+        }
+      },
+      "characteristics": {
+        "type": "public",
+        "size": "large",
+        "setting": "suburban",
+        "enrollment": 35000
+      },
+      "strongMajors": ["Engineering", "Business", "Environmental Studies", "Aerospace"],
+      "description": "Public research university in beautiful Colorado setting.",
+      "website": "https://www.colorado.edu/",
+      "lastUpdated": "2025-07-28",
+      "dataSource": ["US News 2025", "CU Boulder Official Website"]
+    },
+    {
+      "id": "university-of-alabama",
+      "name": "University of Alabama",
+      "shortName": "Alabama",
+      "country": "USA",
+      "state": "Alabama",
+      "city": "Tuscaloosa",
+      "location": "Tuscaloosa, AL",
+      "ranking": {
+        "usNews2025": 155,
+        "global": 301
+      },
+      "tuition": {
+        "inState": 11100,
+        "outOfState": 30250,
+        "currency": "USD"
+      },
+      "admissions": {
+        "acceptanceRate": 80.0
+      },
+      "languageRequirements": {
+        "toefl": {
+          "minimum": 79,
+          "recommended": 90
+        },
+        "duolingo": {
+          "minimum": 100,
+          "recommended": 110
+        }
+      },
+      "academicRequirements": {
+        "gpa": {
+          "minimum": 3.0,
+          "average": 3.71,
+          "scale": "4.0"
+        },
+        "sat": {
+          "minimum": 1240,
+          "average": 1320,
+          "range": [1240, 1400]
+        }
+      },
+      "characteristics": {
+        "type": "public",
+        "size": "large",
+        "setting": "suburban",
+        "enrollment": 38390
+      },
+      "strongMajors": ["Business", "Engineering", "Communications", "Education"],
+      "description": "Large public university with strong traditions and programs.",
+      "website": "https://www.ua.edu/",
+      "lastUpdated": "2025-07-28",
+      "dataSource": ["US News 2025", "Alabama Official Website"]
+    },
+    {
+      "id": "san-jose-state",
+      "name": "San Jose State University",
+      "shortName": "SJSU",
+      "country": "USA",
+      "state": "California",
+      "city": "San Jose",
+      "location": "San Jose, CA",
+      "ranking": {
+        "usNews2025": 127,
+        "global": 401
+      },
+      "tuition": {
+        "inState": 7254,
+        "outOfState": 18434,
+        "currency": "USD"
+      },
+      "admissions": {
+        "acceptanceRate": 70.0
+      },
+      "languageRequirements": {
+        "toefl": {
+          "minimum": 80,
+          "recommended": 90
+        },
+        "duolingo": {
+          "minimum": 95,
+          "recommended": 105
+        }
+      },
+      "academicRequirements": {
+        "gpa": {
+          "minimum": 3.0,
+          "average": 3.5,
+          "scale": "4.0"
+        },
+        "sat": {
+          "minimum": 1080,
+          "average": 1200,
+          "range": [1080, 1310]
+        }
+      },
+      "characteristics": {
+        "type": "public",
+        "size": "large",
+        "setting": "urban",
+        "enrollment": 35751
+      },
+      "strongMajors": ["Engineering", "Computer Science", "Business", "Arts"],
+      "description": "Public university in Silicon Valley with strong tech programs.",
+      "website": "https://www.sjsu.edu/",
+      "lastUpdated": "2025-07-28",
+      "dataSource": ["US News 2025", "SJSU Official Website"]
+    },
+    {
+      "id": "marshall-university",
+      "name": "Marshall University",
+      "shortName": "Marshall",
+      "country": "USA",
+      "state": "West Virginia",
+      "city": "Huntington",
+      "location": "Huntington, WV",
+      "ranking": {
+        "usNews2025": 298,
+        "global": 501
+      },
+      "tuition": {
+        "inState": 8506,
+        "outOfState": 19016,
+        "currency": "USD"
+      },
+      "admissions": {
+        "acceptanceRate": 93.0
+      },
+      "languageRequirements": {
+        "toefl": {
+          "minimum": 70,
+          "recommended": 80
+        },
+        "duolingo": {
+          "minimum": 90,
+          "recommended": 100
+        }
+      },
+      "academicRequirements": {
+        "gpa": {
+          "minimum": 2.5,
+          "average": 3.4,
+          "scale": "4.0"
+        },
+        "sat": {
+          "minimum": 950,
+          "average": 1080,
+          "range": [950, 1210]
+        }
+      },
+      "characteristics": {
+        "type": "public",
+        "size": "medium",
+        "setting": "suburban",
+        "enrollment": 13500
+      },
+      "strongMajors": ["Business", "Education", "Medicine", "Journalism"],
+      "description": "Public university known for affordable education and diverse programs.",
+      "website": "https://www.marshall.edu/",
+      "lastUpdated": "2025-07-28",
+      "dataSource": ["US News 2025", "Marshall Official Website"]
+    },
+    {
+      "id": "suffolk-university",
+      "name": "Suffolk University",
+      "shortName": "Suffolk",
+      "country": "USA",
+      "state": "Massachusetts",
+      "city": "Boston",
+      "location": "Boston, MA",
+      "ranking": {
+        "usNews2025": 213,
+        "global": 401
+      },
+      "tuition": {
+        "outOfState": 42500,
+        "currency": "USD"
+      },
+      "admissions": {
+        "acceptanceRate": 86.0
+      },
+      "languageRequirements": {
+        "toefl": {
+          "minimum": 80,
+          "recommended": 90
+        },
+        "duolingo": {
+          "minimum": 100,
+          "recommended": 110
+        }
+      },
+      "academicRequirements": {
+        "gpa": {
+          "minimum": 2.8,
+          "average": 3.3,
+          "scale": "4.0"
+        },
+        "sat": {
+          "minimum": 1050,
+          "average": 1170,
+          "range": [1050, 1290]
+        }
+      },
+      "characteristics": {
+        "type": "private",
+        "size": "medium",
+        "setting": "urban",
+        "enrollment": 7500
+      },
+      "strongMajors": ["Business", "Law", "Communications", "Public Administration"],
+      "description": "Private university in downtown Boston with strong professional programs.",
+      "website": "https://www.suffolk.edu/",
+      "lastUpdated": "2025-07-28",
+      "dataSource": ["US News 2025", "Suffolk Official Website"]
+    },
+    {
+      "id": "adelphi-university",
+      "name": "Adelphi University",
+      "shortName": "Adelphi",
+      "country": "USA",
+      "state": "New York",
+      "city": "Garden City",
+      "location": "Garden City, NY",
+      "ranking": {
+        "usNews2025": 251,
+        "global": 401
+      },
+      "tuition": {
+        "outOfState": 40750,
+        "currency": "USD"
+      },
+      "admissions": {
+        "acceptanceRate": 74.0
+      },
+      "languageRequirements": {
+        "toefl": {
+          "minimum": 80,
+          "recommended": 90
+        },
+        "duolingo": {
+          "minimum": 95,
+          "recommended": 105
+        }
+      },
+      "academicRequirements": {
+        "gpa": {
+          "minimum": 2.8,
+          "average": 3.4,
+          "scale": "4.0"
+        },
+        "sat": {
+          "minimum": 1080,
+          "average": 1200,
+          "range": [1080, 1320]
+        }
+      },
+      "characteristics": {
+        "type": "private",
+        "size": "medium",
+        "setting": "suburban",
+        "enrollment": 8000
+      },
+      "strongMajors": ["Nursing", "Business", "Education", "Social Work"],
+      "description": "Private university on Long Island with strong health and education programs.",
+      "website": "https://www.adelphi.edu/",
+      "lastUpdated": "2025-07-28",
+      "dataSource": ["US News 2025", "Adelphi Official Website"]
+    },
+    {
+      "id": "university-of-new-haven",
+      "name": "University of New Haven",
+      "shortName": "UNH",
+      "country": "USA",
+      "state": "Connecticut",
+      "city": "West Haven",
+      "location": "West Haven, CT",
+      "ranking": {
+        "usNews2025": 179,
+        "global": 401
+      },
+      "tuition": {
+        "outOfState": 43170,
+        "currency": "USD"
+      },
+      "admissions": {
+        "acceptanceRate": 91.0
+      },
+      "languageRequirements": {
+        "toefl": {
+          "minimum": 75,
+          "recommended": 85
+        },
+        "duolingo": {
+          "minimum": 100,
+          "recommended": 110
+        }
+      },
+      "academicRequirements": {
+        "gpa": {
+          "minimum": 2.8,
+          "average": 3.3,
+          "scale": "4.0"
+        },
+        "sat": {
+          "minimum": 1050,
+          "average": 1150,
+          "range": [1050, 1250]
+        }
+      },
+      "characteristics": {
+        "type": "private",
+        "size": "medium",
+        "setting": "suburban",
+        "enrollment": 6500
+      },
+      "strongMajors": ["Criminal Justice", "Engineering", "Business", "Forensic Science"],
+      "description": "Private university known for experiential learning and career preparation.",
+      "website": "https://www.newhaven.edu/",
+      "lastUpdated": "2025-07-28",
+      "dataSource": ["US News 2025", "UNH Official Website"]
+    }
+  ]
+} 
